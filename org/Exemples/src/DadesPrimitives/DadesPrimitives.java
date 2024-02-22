@@ -24,7 +24,7 @@ public class DadesPrimitives {
     }
 
 }
-
+// prova
 class FitxerAmbDadesPrimitives {
 
     String rutaOrigen = "src/DadesPrimitives/persones.dat";
